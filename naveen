@@ -1,4 +1,9 @@
 this my fst line
 this is my 2nd line
+<<<<<<< HEAD
 thi is my 5th linr 
 this dn 6th kilne
+=======
+this my 3rd ine 
+thi is my 4th line
+>>>>>>> cb976ff31ea50b7ea2e06508357a5f7ff2c72860
